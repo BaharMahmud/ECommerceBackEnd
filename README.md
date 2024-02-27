@@ -25,7 +25,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 ## Walkthrough Video
-
+https://drive.google.com/file/d/1hZh2dp75koRvszPGk0sw-dOT3WDTA2en/view?pli=1
 
 
 ## Mock-Up
